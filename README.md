@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mbelmontes7
+- 👋 Hi, I’m Magaly Belmontes 
 - 👀 I’m interested in learnig how to Code. 
 - 🌱 I’m currently learning Html. 
 - 💞️ I’m looking to collaborate on web design. 

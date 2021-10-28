@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Magaly Belmontes 
 - 👀 I’m interested in learnig how to Code. 
-- 🌱 I’m currently learning HTML.  
+- 🌱 I’m currently learning the basics of HTML. 
 - 💞️ I’m looking to collaborate on web design. 
-- 📫 How to reach me email: magaly.belmontes77@gmail.com 
+- 📫 How to reach me email: magaly.belmontes78@gmail.com 
 
 <!---
 mbelmontes7/mbelmontes7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

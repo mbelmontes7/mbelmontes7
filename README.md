@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Magaly Belmontes 
-- 👀 I’m interested in learnig how to Code. 
-- 🌱 I’m currently learning the basics of HTML. 
+- 👀 I’m learnig how to Code. 
+- 🌱 I’m currently learning React.  
 - 💞️ I’m looking to collaborate on web design. 
 - 📫 How to reach me email: magaly.belmontes78@gmail.com 
 

@@ -9,7 +9,7 @@ My name is Magaly,I'm learing how to code in javascript and React 👩🏻‍ �
 
  💪🏻 Working on a fitness web app project with my online community once a week  https://links.geneva.com/invite/55d498bc-37f0-4508-a0d6-22eee22bd2b2  👩🏻‍💻
 
-📹 Making videos online sharing my journey 
+📹 Making videos online sharing my journey 👾
 
 
 

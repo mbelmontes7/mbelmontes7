@@ -19,3 +19,5 @@ My name is Magaly,I'm learing how to code in javascript and React 👩🏻‍ �
 // README.md![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mbelmontes7)
 
 https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&logoWidth=30
+
+![image](https://user-images.githubusercontent.com/85905636/207357014-64d6d022-fafa-42f8-bd43-1ac877857d00.png)

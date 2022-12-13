@@ -4,4 +4,4 @@ My name is Magaly,I'm learing how to code in javascript and React 👩🏻‍ �
 
 
 // README.md
-![Github stats](https://github-readme-stats.vercel.app/api?username=mbelmontes7=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?mbelmontes7=highcontrast&show_icons=true&count_private=true)

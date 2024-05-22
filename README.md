@@ -1,6 +1,6 @@
 Hi there 👋🏻
 
-My name is Magaly, 👩🏻‍ 💻  
+My name is Magaly 👩🏻‍ 💻  
 
 
 
